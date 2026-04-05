@@ -323,6 +323,10 @@ https://youtu.be/BoEUrX7nnX8
 新CTO就任記念「これからのエムスリーエンジニアリンググループ」 CPO（兼CAIO）× CTO対談  
 https://youtu.be/m4x8lorfFvA
 
+- 2026-03-02
+1/21開催イベントアーカイブ【pmconf2025振返り】AI時代の生産性について皆で語らNight：エムスリーCPOが質疑応答  
+https://youtu.be/FajRrePSbOM
+
 ### M3 Design Channel 【エムスリー公式デザインチャンネル】
 
 https://www.youtube.com/@m3designchannel170/search?query=%E5%B1%B1%E5%B4%8E
