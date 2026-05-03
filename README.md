@@ -509,6 +509,20 @@ https://logmi.jp/main/technology/329833
 学びをどう共有し、"レベル3"への隔たりをどう乗り越えるか　プロダクトマネージャーの採用・育成に関するQ＆A  
 https://logmi.jp/main/technology/329834
 
+### AEON TECH HUB
+
+- 2024-06-18
+業界をテクノロジーでリードする3社＜エムスリー、BuySell Technologies、イオン＞のCTOが語り合った「技術で業界に変革を起こすための秘訣」 - QAセッションの様子を全公開 | AEON TECH HUB開催レポート Session#1  
+https://engineer-recruiting.aeon.info/aeon-tech-hub/event-report_ATH-5_1
+
+- 2024-06-18
+エムスリー、BuySell Technologies、イオンのCTO3名が語る"CTO"の役割とコミットすべきこと | AEON TECH HUB開催レポート Session#2  
+https://engineer-recruiting.aeon.info/aeon-tech-hub/event-report_ATH-5_2
+
+- 2024-06-18
+CTOが若手エンジニアに伝えたいことは「課題を解決する情熱」と「成功体験」 | AEON TECH HUB開催レポート Session#3  
+https://engineer-recruiting.aeon.info/aeon-tech-hub/event-report_ATH-5_3
+
 ### Wantedly エムスリー公式
 
 - 2019-11-21
@@ -564,10 +578,6 @@ https://jp.findy-team.io/case/eventreport/vpoe-m3-moneyforward/
 - 2022-03-17
 エンジニアのチャレンジをどうマネジメントするか？【Sansan×エムスリー VPoE対談イベントレポート】（Sansan Tech Blog）  
 https://buildersbox.corp-sansan.com/entry/2022/03/17/110000
-
-- 2024-06-18
-業界をテクノロジーでリードする3社＜エムスリー、BuySell Technologies、イオン＞（AEON TECH HUB イベントレポート）  
-https://engineer-recruiting.aeon.info/aeon-tech-hub/event-report_ATH-5_1
 
 - 2024-09-11
 エンジニアにとっての成果とは「いいコードを書くこと」——エムスリーVPoEに聞く、エンジニア組織のパフォーマンスを最大化する「評価」のあり方（レバテック）  
