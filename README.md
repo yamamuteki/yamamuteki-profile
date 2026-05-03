@@ -357,6 +357,44 @@ https://youtu.be/RhVKoZwiHOI
 
 ## インタビュー・メディア掲載
 
+### ProductZine
+
+- 2021-01-22
+【2/24開催ウェビナー】「PM育成とチーム作り」をテーマにエムスリー山崎氏が登壇、申込開始  
+https://productzine.jp/article/detail/167
+
+- 2021-02-10
+優れたプロダクトは『学び』から生まれる――"アジャイルもどき"で失敗しないために組織に必要なマインドセットとは？（エムスリー山崎聡氏×レッドジャーニー市谷聡啓氏 対談①）  
+https://productzine.jp/article/detail/159
+
+- 2021-02-17
+アジャイル開発を正しく理解・運用しチームを導くプロダクトマネージャーを育てる上で必要となる『学びの環境と文化』（エムスリー山崎聡氏×レッドジャーニー市谷聡啓氏 対談②）  
+https://productzine.jp/article/detail/160
+
+- 2021-04-05
+プロダクトマネージャー育成のためにチームの中心に据えるべき7つの「シコウ」とは？ エムスリーのPM山崎氏が解説（ウェビナーレポート）  
+https://productzine.jp/article/detail/200
+
+- 2022-10-13
+クライス＆カンパニーがpmconf 2022に協賛、担当セッションではデキるPMとイマイチPMとの差を紐解く  
+https://productzine.jp/article/detail/1363
+
+- 2024-02-28
+クライス＆カンパニー、「PM育成虎の巻 〜明日から使えるOJTノウハウ〜」を4月15日にオンラインとオフラインの両方で開催  
+https://productzine.jp/article/detail/2434
+
+- 2025-12-23
+生成AI時代のPMは生産量より生産性を追え──エムスリー山崎聡氏が語る、プロダクトマネージャーの生産性革命  
+https://productzine.jp/article/detail/3938
+
+- 2025-12-23
+「pmconf 2025」のセッションを深掘り。エムスリー、AI時代の生産性をCPOと語れるイベントを1月21日に開催  
+https://productzine.jp/article/detail/3978
+
+- 2026-02-20
+AI時代のプロダクト戦略を探る、ミダスキャピタルが「プロダクトマネジメント2026トレンド大予想」を3月11日に開催  
+https://productzine.jp/article/detail/4100
+
 ### エンジニアtype
 
 - 2019-07-25
@@ -477,18 +515,6 @@ https://www.kandc.com/eng/interview/008/
 よりプロダクト志向の組織に。医療業界の改革を目指すエムスリーのデザイン組織（ReDesigner Magazine）  
 https://magazine.redesigner.jp/post/m3-yamazaki-kogetsu
 
-- 2021-02-10
-優れたプロダクトは『学び』から生まれる――"アジャイルもどき"で失敗しないために組織に必要なマインドセットとは？（ProductZine / エムスリー山崎聡氏×レッドジャーニー市谷聡啓氏 対談①）  
-https://productzine.jp/article/detail/159
-
-- 2021-02-17
-アジャイル開発を正しく理解・運用しチームを導くプロダクトマネージャーを育てる上で必要となる『学びの環境と文化』（ProductZine / エムスリー山崎聡氏×レッドジャーニー市谷聡啓氏 対談②）  
-https://productzine.jp/article/detail/160
-
-- 2021-04-05
-プロダクトマネージャー育成のためにチームの中心に据えるべき7つの「シコウ」とは？ エムスリーのPM山崎氏が解説（ProductZine ウェビナーレポート）  
-https://productzine.jp/article/detail/200
-
 - 2021-07-09
 「共に戦略を磨く、対等な仲間が欲しかった。」エムスリーとMIMIGURIがワンチームで築いた、サグラダファミリアのキービジュアルとは。（MIMIGURI）  
 https://mimiguri.co.jp/ayatori/m3-design-organization/
@@ -540,10 +566,6 @@ https://findy-code.io/pick-up/interviews/m3-engineer
 - 2025-09-11
 沼倉さんとエムスリー取締役CPO山崎さんのインタビューが公開（エムスリーキャリア アルムナイ note）  
 https://note.com/m3career_alumni/n/n582e8ae3cbed
-
-- 2025-12-23
-生成AI時代のPMは生産量より生産性を追え──エムスリー山崎聡氏が語る、プロダクトマネージャーの生産性革命（ProductZine）  
-https://productzine.jp/article/detail/3938
 
 - 2026-03-25
 「顧客が喜んでお金を払うプロダクトを作りたい」エムスリー山崎さんが語る、デジスマ診療の挑戦と"商売センス"の磨き方（Granty PM）  
