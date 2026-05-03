@@ -856,3 +856,11 @@ https://www.m3tech.blog/entry/pmconf2025-announcement
 - 2025-12-24
 pmconf 2025 大阪登壇、東京参加と参考になったセッションを振り返るなど。  
 https://www.m3tech.blog/entry/pmconf2025-osaka-retrospective
+
+## Qiita 執筆記事一覧
+
+https://qiita.com/yamamuteki
+
+- 2017-12-24
+プロダクトマネジメントと新規サービス開発  
+https://qiita.com/yamamuteki/items/98a52af660d7c9048092
