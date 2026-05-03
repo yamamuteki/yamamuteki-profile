@@ -753,6 +753,74 @@ https://flexy.connpass.com/event/384232/
 プロダクトマネジメント2026トレンド大予想 ～AI時代の事業・組織戦略～  
 https://propro.connpass.com/event/383893/
 
+## 登壇資料 / SpeakerDeck
+
+https://speakerdeck.com/yamamuteki/
+
+- 2019-01-17
+エムスリーのグローバル戦略と今回のニューヨークオフィス出張について / 2018 M3 Global Strategy  
+https://speakerdeck.com/yamamuteki/2018-m3-global-strategy
+
+- 2019-02-04
+新規事業を加速するための製品の見つけ方 / How to identify product for new business  
+https://speakerdeck.com/yamamuteki/how-to-identify-product-for-new-business
+
+- 2019-05-23
+エムスリー株式会社エンジニアリングG紹介資料 / Introduction of M3 engineering group  
+https://speakerdeck.com/yamamuteki/introduction-of-m3-engineering-group
+
+- 2019-10-04
+エンジニアのキャリアとして大事にしてきたこと／すべきこと / What's important in my engineer's career  
+https://speakerdeck.com/yamamuteki/whats-important-in-my-engineers-career
+
+- 2019-11-12
+プロダクトマネージャーカンファレンス2019「ソフトウェア・ファーストで医療業界を変える」 / Change the medicine by Software First at pmconf 2019  
+https://speakerdeck.com/yamamuteki/change-the-medicine-by-software-first-at-pmconf-2019
+
+- 2019-11-27
+良いプロダクトを生み出すためのプロダクトチームの作り方 / How to create good product teams for good products  
+https://speakerdeck.com/yamamuteki/how-to-create-good-product-teams-for-good-products
+
+- 2020-07-09
+コロナ時代の医療業界を支援するエムスリーのプロダクト開発の舞台裏（オープニングトーク） / Opening Talk for Backstage of M3's Product Development in Medical Industry with COVID-19 era  
+https://speakerdeck.com/yamamuteki/opening-talk-for-backstage-of-m3-s-product-development-in-medical-industry-with-covid-19-era
+
+- 2020-07-26
+経営視点から見たPdM、PjMの重要性 / Importance of PdM and PjM in Business Management  
+https://speakerdeck.com/yamamuteki/importance-of-pdm-and-pjm-in-business-management
+
+- 2020-08-21
+コロナ禍で成長し続けるエムスリーのエンジニア組織 / Introduction to M3 Engineering Group with in Growing in Corona Era  
+https://speakerdeck.com/yamamuteki/introduction-to-m3-engineering-group-with-in-growing-in-corona-era
+
+- 2020-09-23
+2000年創業エムスリーが挑む大規模クラウド移行の背景 / Background of Large-scale Cloud Migration Challenges by M3 founded in 2000  
+https://speakerdeck.com/yamamuteki/background-of-large-scale-cloud-migration-challenges-by-m3-founded-in-2000
+
+- 2020-12-03
+2000年創業エムスリーが挑む大規模クラウド移行の背景 #2 / Background of Large-scale Cloud Migration Challenges by M3 founded in 2000 #2  
+https://speakerdeck.com/yamamuteki/background-of-large-scale-cloud-migration-challenges-by-m3-founded-in-2000-number-2
+
+- 2021-02-24
+プロダクトマネージャー育成へのチャレンジ：チームの中心に据えるべきもの / Development of Product Managers: The Essentials of Your Product Team's Success  
+https://speakerdeck.com/yamamuteki/development-of-product-managers-the-essentials-of-your-product-teams-success
+
+- 2021-10-26
+pmconf 2021 非連続な環境、変化、プロダクトに対応していくためにプロダクトマネージャーが習得するべき「7つのシコウ」 / "7 Shikou" for Product Management in Discontinuous Environments, Changes and Products  
+https://speakerdeck.com/yamamuteki/7-shikou-for-product-management-in-discontinuous-environments-changes-and-products
+
+- 2022-11-02
+pmconf 2022 拡販フェーズを生き残るチームに必要な2つの理論：八百屋理論とF1理論 / Two Theories for Product Team to Survive Growth Phase: Yaoya and F1 Theory  
+https://speakerdeck.com/yamamuteki/two-theories-for-product-team-to-survive-growth-phase-yaoya-and-f1-theory
+
+- 2023-11-29
+pmconf 2023 プロダクトと事業を無限にスケールするための最強のロードマップの作り方 / The Greatest Roadmap for Unlimited Scaling your Business and Products  
+https://speakerdeck.com/yamamuteki/the-greatest-roadmap-for-unlimited-scaling-your-business-and-products
+
+- 2025-11-21
+pmconf 2025 大阪「生成AI時代に未来を切り開くためのプロダクト戦略：圧倒的生産性を実現するためのプロダクトサイクロン」 / The Product Cyclone for Outstanding Productivity  
+https://speakerdeck.com/yamamuteki/product-cyclone-for-the-outstanding-productivity
+
 ## エムスリーテックブログ 執筆記事一覧
 
 https://www.m3tech.blog/archive/author/yamazaki-m3
