@@ -523,6 +523,20 @@ https://engineer-recruiting.aeon.info/aeon-tech-hub/event-report_ATH-5_2
 CTOが若手エンジニアに伝えたいことは「課題を解決する情熱」と「成功体験」 | AEON TECH HUB開催レポート Session#3  
 https://engineer-recruiting.aeon.info/aeon-tech-hub/event-report_ATH-5_3
 
+### Findy
+
+- 2022-02-10
+「リーダー育成は早いうちから」エムスリーとマネーフォワードのVPoEが語る、エンジニアリングマネジメントの実践  
+https://jp.findy-team.io/case/eventreport/vpoe-m3-moneyforward/
+
+- 2025-09-18
+AI×開発組織Summit アーカイブ動画  
+https://jp.findy-team.io/event/event-archives/ai-dev-org-summit_archives/
+
+- 2026-01-23
+AI時代の開発組織を左右する戦略的意思決定「AI×開発組織Summit Revival」  
+https://jp.findy-team.io/event/live/ai-dev-org-summit_revival_260224-260226/
+
 ### Wantedly エムスリー公式
 
 - 2019-11-21
@@ -570,10 +584,6 @@ https://mimiguri.co.jp/ayatori/m3-design-organization/
 - 2021-12-22
 PMが習得するべき「7つのシコウ」を解説！ エムスリー執行役員 / VPoE / PM 山崎聡が考える「PM育成」の指針（キャリアハック）  
 https://careerhack.en-japan.com/report/detail/1520
-
-- 2022-02-10
-「リーダー育成は早いうちから」エムスリーとマネーフォワードのVPoEが語る、エンジニアリングマネジメントの実践（Findy Team+）  
-https://jp.findy-team.io/case/eventreport/vpoe-m3-moneyforward/
 
 - 2022-03-17
 エンジニアのチャレンジをどうマネジメントするか？【Sansan×エムスリー VPoE対談イベントレポート】（Sansan Tech Blog）  
