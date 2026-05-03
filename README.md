@@ -603,6 +603,10 @@ https://careerhack.en-japan.com/report/detail/1520
 エンジニアのチャレンジをどうマネジメントするか？【Sansan×エムスリー VPoE対談イベントレポート】（Sansan Tech Blog）  
 https://buildersbox.corp-sansan.com/entry/2022/03/17/110000
 
+- 2022-12-21
+[レポート] C-6 ホウレンソウで分かる、デキるPMの働き方 – プロダクトマネージャーカンファレンス2022 #pmconf2022（DevelopersIO）  
+https://dev.classmethod.jp/articles/report-pmconf2022-c6/
+
 - 2024-09-11
 エンジニアにとっての成果とは「いいコードを書くこと」——エムスリーVPoEに聞く、エンジニア組織のパフォーマンスを最大化する「評価」のあり方（レバテック）  
 https://levtech.jp/media/article/interview/detail_515/
@@ -889,7 +893,9 @@ https://speakerdeck.com/yamamuteki/the-greatest-roadmap-for-unlimited-scaling-yo
 pmconf 2025 大阪「生成AI時代に未来を切り開くためのプロダクト戦略：圧倒的生産性を実現するためのプロダクトサイクロン」 / The Product Cyclone for Outstanding Productivity  
 https://speakerdeck.com/yamamuteki/product-cyclone-for-the-outstanding-productivity
 
-## エムスリーテックブログ 執筆記事一覧
+## エムスリーテックブログ
+
+### 執筆記事
 
 https://www.m3tech.blog/archive/author/yamazaki-m3
 
@@ -992,6 +998,16 @@ https://www.m3tech.blog/entry/pmconf2025-announcement
 - 2025-12-24
 pmconf 2025 大阪登壇、東京参加と参考になったセッションを振り返るなど。  
 https://www.m3tech.blog/entry/pmconf2025-osaka-retrospective
+
+### 関連記事
+
+- 2025-04-02
+エムスリー初代CPOに山崎が就任、4代目CTOに大垣が就任しました  
+https://www.m3tech.blog/entry/new-cpo-cto-2025
+
+- 2026-03-02
+VPoE 河合およびCTO 大垣が業務執行役員にW就任 〜AI時代最速の開発組織を目指して〜  
+https://www.m3tech.blog/entry/2026/03/02/110000
 
 ## Qiita 執筆記事一覧
 
