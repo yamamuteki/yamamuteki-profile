@@ -433,6 +433,44 @@ https://type.jp/et/feature/21504/
 AbemaTV・ソニックガーデン・エムスリー3社の実践例を公開！「事業を育てる」自律型開発組織のつくり方【西尾亮太・倉貫義人・山崎 聡】  
 https://type.jp/et/feature/23053/
 
+### クライス＆カンパニー
+
+- 2020-06-15
+【インタビュー】エムスリー 山崎 聡 氏「世界が待ち望むイノベ―ティブなプロダクトを創り出していく」  
+https://www.kandc.com/eng/interview/008/
+
+- 2020-07-10
+【クライス汐留アカデミー告知】withコロナ時代を生き抜くDXを支えるプロダクト戦略  
+https://www.kandc.com/academy/details/23/
+
+- 2020-07-10
+【クライス汐留アカデミーレポート】withコロナ時代を生き抜くDXを支えるプロダクト戦略  
+https://www.kandc.com/eng/event/010/
+
+- 2021-11-05
+【note】PMCOMF2021まとめ#4 エムスリー山崎さんに聞く！PMの…  
+https://note.com/pdm_kandc/n/n8dfba45d93e1
+
+- 2022-02-14
+【note】PM組織に色々聞いてみたシリーズ Vol.3 エムスリー編  
+https://note.com/pdm_kandc/n/n61b324f95510
+
+- 2022-06-17
+【note】Podcast「エムスリーの山崎さんに聞いてみよう！」  
+https://note.com/pdm_kandc/n/ne2bfc17cdc99
+
+- 2024-04-15
+【クライス汐留アカデミー告知】PM育成虎の巻 ～明日から使えるOJTノウハウ～  
+https://www.kandc.com/academy/details/031/
+
+- 2025-09-01
+【クライス汐留アカデミー告知】生成AI時代でも選ばれるエンジニア・データサイエンティスト ～明日からできる、差がつくキャリアの描き方～  
+https://www.kandc.com/academy/details/037/
+
+- 2025-09-01
+【クライス汐留アカデミーレポート】生成AI時代でも選ばれるエンジニア・データサイエンティスト ～明日からできる、差がつくキャリアの描き方～  
+https://www.kandc.com/academy/report/037/
+
 ### Logmi Business
 
 - 2022-08-05
@@ -507,10 +545,6 @@ https://buildersbox.corp-sansan.com/entry/2019/10/29/140000
 革新的サービスを開発するためのカギ：インタビュー掲載（エムスリー株式会社 note）  
 https://note.com/m3hr/n/n8136cd269401
 
-- 2020-06-15
-エムスリー 山崎 聡 氏「世界が待ち望むイノベ―ティブなプロダクトを創り出していく」（クライス＆カンパニー）  
-https://www.kandc.com/eng/interview/008/
-
 - 2020-10-27
 よりプロダクト志向の組織に。医療業界の改革を目指すエムスリーのデザイン組織（ReDesigner Magazine）  
 https://magazine.redesigner.jp/post/m3-yamazaki-kogetsu
@@ -518,10 +552,6 @@ https://magazine.redesigner.jp/post/m3-yamazaki-kogetsu
 - 2021-07-09
 「共に戦略を磨く、対等な仲間が欲しかった。」エムスリーとMIMIGURIがワンチームで築いた、サグラダファミリアのキービジュアルとは。（MIMIGURI）  
 https://mimiguri.co.jp/ayatori/m3-design-organization/
-
-- 2021-11-05
-PMCOMF2021まとめ#4 エムスリー山崎さんに聞く！PMの…（note / クライス＆カンパニー）  
-https://note.com/pdm_kandc/n/n8dfba45d93e1
 
 - 2021-12-22
 PMが習得するべき「7つのシコウ」を解説！ エムスリー執行役員 / VPoE / PM 山崎聡が考える「PM育成」の指針（キャリアハック）  
@@ -531,17 +561,9 @@ https://careerhack.en-japan.com/report/detail/1520
 「リーダー育成は早いうちから」エムスリーとマネーフォワードのVPoEが語る、エンジニアリングマネジメントの実践（Findy Team+）  
 https://jp.findy-team.io/case/eventreport/vpoe-m3-moneyforward/
 
-- 2022-02-14
-PM組織に色々聞いてみたシリーズ Vol.3 エムスリー編（note / クライス＆カンパニー）  
-https://note.com/pdm_kandc/n/n61b324f95510
-
 - 2022-03-17
 エンジニアのチャレンジをどうマネジメントするか？【Sansan×エムスリー VPoE対談イベントレポート】（Sansan Tech Blog）  
 https://buildersbox.corp-sansan.com/entry/2022/03/17/110000
-
-- 2022-06-17
-Podcast「エムスリーの山崎さんに聞いてみよう！」（note / クライス＆カンパニー）  
-https://note.com/pdm_kandc/n/ne2bfc17cdc99
 
 - 2024-06-18
 業界をテクノロジーでリードする3社＜エムスリー、BuySell Technologies、イオン＞（AEON TECH HUB イベントレポート）  
