@@ -47,6 +47,16 @@ Satoshi YAMAZAKI
 
 ## ポッドキャスト出演
 
+### プロダクトぶれんじゃねぇ。ラジオ
+
+- 2024-04-28
+#12「初のオフライン収録（前編）！AI時代のプロダクトマネジメントを語る」  
+https://open.spotify.com/episode/2gWwfiQ7FcxUFwanPCY772
+
+- 2024-05-01
+#13「初のオフライン収録（後編）！VB・Access時代からAI時代への進化と、M&Aによるプロダクト統合のリアル」  
+https://open.spotify.com/episode/49ny0hB0Lt9yHJfuT32Er8
+
 ### PIVOT Growth Drivers（全3回）
 
 - 2024-01-23
