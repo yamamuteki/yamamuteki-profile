@@ -357,6 +357,44 @@ https://youtu.be/RhVKoZwiHOI
 
 ## インタビュー・メディア掲載
 
+### エンジニアtype
+
+- 2019-07-25
+現場or管理、受託or自社開発、技術or事業貢献？「二者択一の考え方はエンジニアのキャリアを先細りさせるだけ」【Sansan 藤倉成太×エムスリー 山崎聡】  
+https://type.jp/et/feature/11159/
+
+- 2020-07-01
+コロナ直撃でも開発を加速できた理由は？ 時価総額３兆円のシステムを支える、エムスリーのレジリエンス  
+https://type.jp/et/feature/13530/
+
+- 2022-04-20
+【Sansan西場正浩×エムスリー山崎聡】"エンジニアのチャレンジ"をどうマネジメントするか  
+https://type.jp/et/feature/19118/
+
+- 2022-06-02
+「ダメでも学んで500回挑めばいい」エムスリーCTO山崎聡の"アジャイルなチャレンジ"のススメ  
+https://type.jp/et/feature/19532/
+
+- 2022-09-13
+【実例】ベンチャー急拡大期の「マネージャー不足しがち問題」への打ち手とは？ Chatwork×エムスリー CTO対談  
+https://type.jp/et/feature/20475/
+
+- 2022-10-21
+コインチェック、LINE、エムスリー…各社CTOの言葉から考える、エンジニアの成長に欠かせないもの  
+https://type.jp/et/feature/20811/
+
+- 2022-12-21
+「また一緒に働きたい」と思われる退職確定後の過ごし方【エムスリーCTO山崎聡×レクター代表広木大地】  
+https://type.jp/et/feature/21443/
+
+- 2022-12-28
+退職トラブルあるあるをどう回避する？転職のプロ・出戻り役員・CTOから学ぶ「エンジニアのための円満退職塾」まとめ  
+https://type.jp/et/feature/21504/
+
+- 2023-07-20
+AbemaTV・ソニックガーデン・エムスリー3社の実践例を公開！「事業を育てる」自律型開発組織のつくり方【西尾亮太・倉貫義人・山崎 聡】  
+https://type.jp/et/feature/23053/
+
 ### Logmi Business
 
 - 2022-08-05
@@ -419,10 +457,6 @@ https://www.wantedly.com/companies/m3_inc/post_articles/548512
 【エムスリー対談】医療系IT企業の外部技術顧問活用の意義とは（FLEXY）  
 https://flxy.jp/media/article/4025
 
-- 2019-07-25
-現場or管理、受託or自社開発、技術or事業貢献？「二者択一の考え方はエンジニアのキャリアを先細りさせるだけ」【Sansan 藤倉成太×エムスリー 山崎聡】（エンジニアtype）  
-https://type.jp/et/feature/11159/
-
 - 2019-08-05
 エンジニアキャリア論（エンジニア type 対談後記）（Sansan Tech Blog）  
 https://buildersbox.corp-sansan.com/entry/2019/08/05/110000
@@ -479,25 +513,9 @@ https://note.com/pdm_kandc/n/n61b324f95510
 エンジニアのチャレンジをどうマネジメントするか？【Sansan×エムスリー VPoE対談イベントレポート】（Sansan Tech Blog）  
 https://buildersbox.corp-sansan.com/entry/2022/03/17/110000
 
-- 2022-04-20
-【Sansan西場正浩×エムスリー山崎聡】"エンジニアのチャレンジ"をどうマネジメントするか（エンジニアtype）  
-https://type.jp/et/feature/19118/
-
-- 2022-06-02
-「ダメでも学んで500回挑めばいい」エムスリーCTO山崎聡の"アジャイルなチャレンジ"のススメ（エンジニアtype）  
-https://type.jp/et/feature/19532/
-
 - 2022-06-17
 Podcast「エムスリーの山崎さんに聞いてみよう！」（note / クライス＆カンパニー）  
 https://note.com/pdm_kandc/n/ne2bfc17cdc99
-
-- 2022-12-21
-「また一緒に働きたい」と思われる退職確定後の過ごし方【エムスリーCTO山崎聡×レクター代表広木大地】（エンジニアtype）  
-https://type.jp/et/feature/21443/
-
-- 2022-12-28
-退職トラブルあるあるをどう回避する？転職のプロ・出戻り役員・CTOから学ぶ「エンジニアのための円満退職塾」まとめ（エンジニアtype）  
-https://type.jp/et/feature/21504/
 
 - 2024-06-18
 業界をテクノロジーでリードする3社＜エムスリー、BuySell Technologies、イオン＞（AEON TECH HUB イベントレポート）  
