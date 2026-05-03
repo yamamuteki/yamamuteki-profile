@@ -627,6 +627,14 @@ https://note.com/m3career_alumni/n/n582e8ae3cbed
 「顧客が喜んでお金を払うプロダクトを作りたい」エムスリー山崎さんが語る、デジスマ診療の挑戦と"商売センス"の磨き方（Granty PM）  
 https://pm-notes.com/pdm-voice-76/
 
+- 2026-04-24
+Product/AI Conf Vol.4ーAI時代のプロダクト戦略 に参加しました（note / yussak）  
+https://note.com/yussak/n/nb9965ff7bb3d
+
+- 2026-04-28
+「変わらないものがもはやない」時代のプロダクト戦略──Product/AI Conf Vol.4 参加レポート（note / 稲垣剛之 ラクス）  
+https://note.com/ingktks7/n/n54165924603a
+
 ## イベント登壇
 
 ### プロダクトマネージャーカンファレンス / pmconf 登壇
@@ -668,6 +676,10 @@ https://dev-productivity-con.findy-code.io/2024?m=2024/m/J-DI2YMu
 - 2025-09-02
 AI×開発組織Summit（基調講演：AI時代に生き残るための開発組織戦略 - いま求められる人材と投資の現在地）  
 https://jp.findy-team.io/conference/ai-dev-org-summit?program=list-b6
+
+- 2026-04-23
+Product/AI Conf Vol.4ーAI時代のプロダクト戦略  
+https://aixpdm.connpass.com/event/386964/
 
 ### エムスリー主催イベント登壇
 
