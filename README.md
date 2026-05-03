@@ -555,6 +555,20 @@ https://www.wantedly.com/companies/m3_inc/post_articles/537401
 ばんくしこと河合 俊典と山崎 聡が語るエムスリーのエンジニア組織とその魅力（Wantedly）  
 https://www.wantedly.com/companies/m3_inc/post_articles/548512
 
+### PR TIMES
+
+- 2021-02-08
+翔泳社、PM向けウェビナー「エムスリーに学ぶ、プロダクトマネージャー育成へのチャレンジ、チームの中心に据えるべきもの」を2月24日に開催  
+https://prtimes.jp/main/html/rd/p/000000058.000034873.html
+
+- 2024-04-01
+グループ会社支援を目的とした開発支援専門会社｜エムスリーテクノロジーズ株式会社を設立  
+https://prtimes.jp/main/html/rd/p/000000009.000125568.html
+
+- 2025-09-22
+「AI×開発組織 Summit」オフライン開催で800名超が参加！KDDI、DeNA、エムスリーをはじめとするAI先進企業のアーカイブ動画＆開催レポートを公開  
+https://prtimes.jp/main/html/rd/p/000000186.000045379.html
+
 ### その他
 
 - 2019-02-04
