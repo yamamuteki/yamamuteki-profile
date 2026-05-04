@@ -15,6 +15,7 @@ Satoshi YAMAZAKI
 
 - https://x.com/yamamuteking
 - https://speakerdeck.com/yamamuteki/
+- https://github.com/yamamuteki
 - https://www.m3tech.blog/archive/author/yamazaki-m3
 
 ## 略歴
