@@ -182,6 +182,10 @@ https://www.youtube.com/@NewbeeTech/search?query=%E5%B1%B1%E5%B4%8E
 Reframe Session #1「プロダクトロードマップ、本当に必要？」  
 https://www.youtube.com/live/8W55-ZpmUlc
 
+- 2026-06-02
+【PMは総合格闘技】PMの責任はどこまで？ / AI時代に出し続けたい普遍的な価値 / AI時代を生き抜く『勝てるプロダクト開発の教科書』 / 縦軸・横軸の責任構造  
+https://youtu.be/r3owpx-BP50
+
 ### Around the Product hosted by freee
 
 https://www.youtube.com/@freee_developers/search?query=Around+the+Product
@@ -685,6 +689,10 @@ https://jp.findy-team.io/conference/ai-dev-org-summit?program=list-b6
 - 2026-04-23
 Product/AI Conf Vol.4ーAI時代のプロダクト戦略  
 https://aixpdm.connpass.com/event/386964/
+
+- 2026-06-08
+AI Engineering Summit Tokyo 2026（特別講演：AIエージェント時代の最先端開発組織 / 山崎聡×広木大地）  
+https://ai-engineering-summit-tokyo.findy-tools.io/2026-summer
 
 ### エムスリー主催イベント登壇
 
