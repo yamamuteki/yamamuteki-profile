@@ -644,6 +644,10 @@ https://note.com/yussak/n/nb9965ff7bb3d
 「変わらないものがもはやない」時代のプロダクト戦略──Product/AI Conf Vol.4 参加レポート（note / 稲垣剛之 ラクス）  
 https://note.com/ingktks7/n/n54165924603a
 
+- 2026-05-12
+後任に託せているか？「新しい領域の開拓と権限委譲のサイクル」を回すエムスリー山崎氏の育成戦略（レバテックLAB）  
+https://levtech.jp/media/detail_857/
+
 ## イベント登壇
 
 ### プロダクトマネージャーカンファレンス / pmconf 登壇
@@ -672,6 +676,14 @@ https://2023.pmconf.jp/session/zBfEEEcp
 生成AI時代に未来を切り開くためのプロダクト戦略：圧倒的生産性を実現するためのプロダクトサイクロン - #pmconf2025（大阪）  
 https://2025.pmconf.jp/event-osaka/session-11
 
+- 2026-10-23
+オープニング Welcome Talk - #pmconf2026（福岡）  
+https://2026.pmconf.jp/event-fukuoka/
+
+- 2026-12-11
+学習密度と多重学習：最強のプロダクトマネージャーに最短で近づくための学び方 - #pmconf2026（大阪・登壇予定）  
+https://www.m3tech.blog/entry/pmconf2026-announcement
+
 ### その他のカンファレンス登壇
 
 - 2024-02-15
@@ -693,6 +705,14 @@ https://aixpdm.connpass.com/event/386964/
 - 2026-06-08
 AI Engineering Summit Tokyo 2026（特別講演：AIエージェント時代の最先端開発組織 / 山崎聡×広木大地）  
 https://ai-engineering-summit-tokyo.findy-tools.io/2026-summer
+
+- 2026-06-27
+PRODUCT HISTORY CONFERENCE 2026（AI時代のPdM進化論 〜「喉から手が出るほど欲しいモノ（What）」をいかに見極めるか〜）  
+https://lp-prohis.youtrust.jp/
+
+- 2026-09-09
+Newbee Conference 2026: Beyond the Screen（組織戦略）  
+https://2026.conference.newbee.media/
 
 ### エムスリー主催イベント登壇
 
@@ -1007,6 +1027,10 @@ https://www.m3tech.blog/entry/pmconf2025-announcement
 - 2025-12-24
 pmconf 2025 大阪登壇、東京参加と参考になったセッションを振り返るなど。  
 https://www.m3tech.blog/entry/pmconf2025-osaka-retrospective
+
+- 2026-10-19
+エムスリーはpmconf 2026の全会場でプラチナスポンサー＆登壇します！〜福岡・大阪・東京でお会いしましょう〜  
+https://www.m3tech.blog/entry/pmconf2026-announcement
 
 ### 関連記事
 
